@@ -25,4 +25,4 @@ Screenshots na pasta `docs/images`
 | ---------------------------------------------- | ------------------------------------------- |
 | ![vendas](https://i.imgur.com/vGh9wj0.png)     | ![caixa](https://i.imgur.com/PFqmr77.png)   |
 | ![transações](https://i.imgur.com/cSqW5BF.png) | ![estoque](https://i.imgur.com/phDts5N.png) |
-| ![cadastro](https://i.imgur.com/4qBqBOD.png)   | ![backup](https://i.imgur.com/0VR9AJM.png)  |
+| ![cadastro](https://i.imgur.com/4qBqBOD.png)   | ![backup](https://i.imgur.com/0VR9AJM.png)  |"# PDVlaravel" 
